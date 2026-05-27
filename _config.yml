@@ -1,0 +1,9 @@
+title: aj1ra Legal Documents
+description: aj1ra が公開するアプリケーションの法務文書（プライバシーポリシー等）
+lang: ja
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
