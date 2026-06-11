@@ -9,7 +9,7 @@
 NaniMachi（以下「本アプリ」）は、麻雀の待ち牌判定を練習するための iOS 向けアプリです。本ポリシーは、本アプリにおける情報の取扱いについて定めたものです。
 
 提供者: aj1ra  
-連絡先: aj1ra.develop@gmail.com
+連絡先: aj1ra.spt@outlook.jp
 
 ---
 
@@ -85,7 +85,7 @@ Apple プライバシーポリシー: <https://www.apple.com/legal/privacy/ja/>
 
 本ポリシーや本アプリのプライバシー取扱いに関するご質問は、以下までご連絡ください。
 
-- メール: aj1ra.develop@gmail.com
+- メール: aj1ra.spt@outlook.jp
 
 ---
 
