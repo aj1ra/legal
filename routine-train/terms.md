@@ -80,7 +80,7 @@
 
 本規約に関するご質問は、以下までご連絡ください。
 
-- メール: aj1ra.develop@gmail.com
+- メール: aj1ra.spt@outlook.jp
 
 ---
 

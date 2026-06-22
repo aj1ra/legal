@@ -34,4 +34,4 @@ MIT ライセンス全文: <https://opensource.org/licenses/MIT>
 
 ## お問い合わせ
 
-aj1ra.develop@gmail.com
+aj1ra.spt@outlook.jp
